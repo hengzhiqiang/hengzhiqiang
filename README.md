@@ -1,5 +1,5 @@
 # Hi there! This is Zhi Qiang ~  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-My full name is Heng Zhi Qiang and you guys can just call me Noah instead! I'm 20 years old now and currently pursuing my first year undergraduate programme for Bachelor of Computer Science (Data Engineering) at University Technology Malaysia (UTM).
+My full name is Heng Zhi Qiang and you guys can just call me Noah instead! I'm 20 years old now and currently pursuing my first year undergraduate programme for Bachelor of Computer Science (Data Engineering) at University of Technology Malaysia (UTM).
 
 Here's a bit about me:
 
@@ -27,7 +27,7 @@ Here's a bit about me:
 ## EDUCATION 📖
 
 - **Bachelor of Computer Science (Data Engineering)** - 
-  *University Tehcnology Malaysia*  
+  *University of Tehcnology Malaysia*  
   - Ongoing (graduated on 2028) 📚  
   - Focused on: Data Engineering, Big Data Analytics, Cloud Computing, Machine Learning
   - Technologies Covered: Visual Studio Code, Embarcadero Dev-C++ (for now)    
