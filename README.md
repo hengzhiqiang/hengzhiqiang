@@ -46,5 +46,9 @@ Here's a bit about me:
   - Graduated: 2023 📅  
   - SPM: 10As  
   - Curricular Marks: 8.84 / 10.00   
-  - Focused on: Pure Science Studies (Biology, Physics, Chemistry)  
+  - Focused on: Pure Science Studies (Biology, Physics, Chemistry)
+
+ ## CURRICULAR ACHIEVEMENTS 🏆
+
+ -Will be Filled In later
   
