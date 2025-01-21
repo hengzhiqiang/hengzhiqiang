@@ -1,21 +1,13 @@
-# 😊Hi there! This is Zhi Qiang ~  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-My full name is Heng Zhi Qiang and you guys can just call me Noah instead! I'm 20 years old now and currently pursuing my first year undergraduate programme for Bachelor of Computer Science (Data Engineering) at University of Technology Malaysia (UTM).
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hengzhiqiang&label=Profile%20views&color=0e75b6&style=flat" alt="hengzhiqiang" /> </p>
+<!--# 😊Hi there! This is Zhi Qiang ~  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)-->
+<h1 align="center">Hi 👋, I'm Heng Zhi Qiang (Noah)</h1>
+🔭I'm currently pursuing my Bachelor of Computer Science (Data Engineering) at University of Technology Malaysia (UTM)   
 
-Here's a bit about me:
+🌱 I always believe that "sometimes the wrong train takes you to the right station.."  
 
-<!--
-**hengzhiqiang/hengzhiqiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-<!--
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: Instagram (
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- <p style="font-family: 'Arial', serif; font-size: 16px; color: #444;"> gfd </p> -->
+    
+  Here's a bit about me:
+
 ## ⚡ABOUT ME
 - 👶Born on 17 March 2005
 - 🏠Based in Sekinchan, Selangor, Malaysia 🏠  
@@ -52,6 +44,13 @@ Here's a bit about me:
 
 -Will be Filled In later
 
+## 🔧GitHub Stats
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hengzhiqiang&show_icons=true&locale=en" alt="hengzhiqiang" /></p>
+
+
+## 🗣LANGUAGE & TOOLS
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a> </p>
+                                                                                              
 ## 📲CONNECT WITH ME 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="50" height="50">](https://www.linkedin.com/in/heng-zhi-qiang-zhi-qiang-666188194/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Instagram" width="50" height="50">](https://www.instagram.com/z.qiang0317)
